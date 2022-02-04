@@ -1,0 +1,232 @@
+{
+  "data": {
+    "id": "10.82081/Gitte-02-mostFields",
+    "type": "dois",
+    "attributes": {
+      "event": "publish",
+      "doi": "10.82081/Gitte-02-mostFields",
+      "url": "https://doi.pangaea.de/10.1594/PANGAEA.726855",
+      "types": {
+        "ris": "GEN",
+        "bibtex": "misc",
+        "citeproc": "article",
+        "schemaOrg": "Collection",
+        "resourceType": "Supplementary Collection of Datasets",
+        "resourceTypeGeneral": "Collection"
+      },
+      "creators": [
+        {
+          "name": "Irino, Tomohisa",
+          "givenName": "Tomohisa",
+          "familyName": "Irino",
+          "nameIdentifiers": [
+            {
+              "schemeUri": "https://orcid.org",
+              "nameIdentifier": "https://orcid.org/0000-0001-6941-770X",
+              "nameIdentifierScheme": "ORCID"
+            }
+          ]
+        },
+        {
+          "name": "Tada, Ryuji",
+          "givenName": "Ryuji",
+          "familyName": "Tada"
+        },
+        {
+          "name": "Denhard, Michael",
+          "nameType": "Personal",
+          "givenName": "Michael",
+          "familyName": "Denhard",
+          "affiliation": [
+            {
+              "name": "Deutscher Wetterdienst (ZAK) (DWD)"
+            }
+          ],
+          "nameIdentifiers": [
+            {
+              "schemeUri": null,
+              "nameIdentifier": "Bjørn Viinholt Nielsen VIVE",
+              "nameIdentifierScheme": "Other"
+            }
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "title": "Chemical and mineral compositions of sediments from ODP Site 127-797, supplement to: Irino, Tomohisa; Tada, Ryuji (2000): Quantification of aeolian dust (Kosa) contribution to the Japan Sea sediments and its variation during the last 200 ky. Geochemical Journal, 34(1), 59-93"
+        },
+        {
+          "lang": "da",
+          "title": "Dagtilbud med udvidet åbningstid",
+          "titleType": null
+        },
+        {
+          "lang": "en",
+          "title": "Day Care with extended open hours",
+          "titleType": "TranslatedTitle"
+        }
+      ],
+      "publisher": "PANGAEA - Data Publisher for Earth & Environmental Science",
+      "publicationYear": 2009,
+      "language": "en",
+      "container": {},
+      "subjects": [
+        {
+          "subject": "Drilling/drill rig",
+          "subjectScheme": "Method"
+        },
+        {
+          "subject": "Leg127",
+          "subjectScheme": "Campaign"
+        },
+        {
+          "subject": "Joides Resolution",
+          "subjectScheme": "Basis"
+        },
+        {
+          "subject": "Ocean Drilling Program (ODP)",
+          "subjectScheme": "Project"
+        },
+        {
+          "subject": "Climate"
+        },
+        {
+          "subject": "DPHASE"
+        },
+        {
+          "subject": "ensemble runs"
+        },
+        {
+          "subject": "model data"
+        },
+        {
+          "subject": "regional model forecast"
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Denhard, Michael",
+          "nameType": "Personal",
+          "givenName": "Michael",
+          "familyName": "Denhard",
+          "affiliation": [
+            {
+              "name": "Deutscher Wetterdienst (ZAK) (DWD)"
+            }
+          ],
+          "contributorType": "ContactPerson"
+        }
+      ],
+      "dates": [
+        {
+          "date": "2007-07-20",
+          "dateType": "Created"
+        },
+        {
+          "date": "2009",
+          "dateType": "Issued"
+        }
+      ],
+      "identifiers": [],
+      "sizes": [
+        "4 datasets",
+        "799950589688 Bytes"
+      ],
+      "formats": [
+        "application/zip",
+        "application/octet-stream",
+        "text/xml"
+      ],
+      "rightsList": [
+        {
+          "rights": "Creative Commons Attribution 3.0 Unported",
+          "rightsUri": "https://creativecommons.org/licenses/by/3.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-3.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "In order to reconstruct past variations in the aeolian dust (Kosa) contribution to the Japan Sea, and to establish a direct link between terrestrial and marine climatic records, we have applied statistical procedures to distinguish and quantify detrital subcomponents within the detrital fraction of the late Quaternary hemipelagic sediments in the Japan Sea. Q-mode factor analysis with varimax and oblique rotation of the factors followed by multiple-regression analysis between mineral composition and factor loadings was conducted using six ''detrital'' elements. Four detrital subcomponents were defined, which are attributed to Kosa derived from ''typical'' loess, Kosa from ''weathered'' loess, and fine and coarse arc-derived detritus, respectively, based on comparisons with the chemical and mineral compositions of probable source materials. Using these detrital subcomponents, the variation in Kosa fraction was reconstructed for the last 200 ky. The results reveal millennial-scale as well as glacial-interglacial scale variations in Kosa contribution. Especially, millennial-scale variability of Kosa contribution suggests the presence of high frequency variation in summer monsoon precipitation in the central to east Asia during the last 200 ky.",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "geoLocations": [
+        {
+          "geoLocationPoint": {
+            "pointLatitude": "38.61599999999999",
+            "pointLongitude": "134.53600000000003"
+          }
+        },
+        {
+          "geoLocationPlace": "Japan Sea"
+        },
+        {
+          "geoLocationBox": {
+            "eastBoundLongitude": "18",
+            "northBoundLatitude": "50",
+            "southBoundLatitude": "43",
+            "westBoundLongitude": "2"
+          }
+        }
+      ],
+      "fundingReferences": [],
+      "relatedIdentifiers": [
+        {
+          "relationType": "IsSupplementTo",
+          "relatedIdentifier": "10.2343/geochemj.34.59",
+          "relatedIdentifierType": "DOI"
+        }
+      ],
+      "relatedItems": [],
+      "schemaVersion": "http://datacite.org/schema/kernel-4",
+      "providerId": "pangaea",
+      "clientId": "dk.sa.test",
+      "agency": "datacite",
+      "source": "api",
+      "isActive": true,
+      "state": "findable",
+      "reason": null,
+      "landingPage": null
+    },
+    "relationships": {
+      "client": {
+        "data": {
+          "id": "zftb.test01",
+          "type": "clients"
+        }
+      },
+      "provider": {
+        "data": {
+          "id": "zftb",
+          "type": "providers"
+        }
+      },
+      "media": {
+        "data": {
+          "id": null,
+          "type": "media"
+        }
+      },
+      "references": {
+        "data": []
+      },
+      "citations": {
+        "data": []
+      },
+      "parts": {
+        "data": []
+      },
+      "partOf": {
+        "data": []
+      },
+      "versions": {
+        "data": []
+      },
+      "versionOf": {
+        "data": []
+      }
+    }
+  }
+}

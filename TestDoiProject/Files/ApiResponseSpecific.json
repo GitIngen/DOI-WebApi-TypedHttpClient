@@ -1,0 +1,94 @@
+{
+  "data": {
+    "id": "10.82081/dk-sa-dda-tst-009",
+    "type": "dois",
+    "attributes": {
+      "doi": "10.82081/dk-sa-dda-tst-009",
+      "prefix": "10.82081",
+      "suffix": "dk-sa-dda-tst-009",
+      "identifiers": [],
+      "alternateIdentifiers": [],
+      "creators": [],
+      "titles": [],
+      "publisher": null,
+      "container": {},
+      "publicationYear": 2021,
+      "subjects": [],
+      "contributors": [],
+      "dates": [],
+      "language": null,
+      "types": {},
+      "relatedIdentifiers": [],
+      "sizes": [],
+      "formats": [],
+      "version": null,
+      "rightsList": [],
+      "descriptions": [],
+      "geoLocations": [],
+      "fundingReferences": [],
+      "xml": null,
+      "url": null,
+      "contentUrl": null,
+      "metadataVersion": 0,
+      "schemaVersion": null,
+      "source": "api",
+      "isActive": false,
+      "state": "draft",
+      "reason": null,
+      "landingPage": null,
+      "viewCount": 0,
+      "viewsOverTime": [],
+      "downloadCount": 0,
+      "downloadsOverTime": [],
+      "referenceCount": 0,
+      "citationCount": 0,
+      "citationsOverTime": [],
+      "partCount": 0,
+      "partOfCount": 0,
+      "versionCount": 0,
+      "versionOfCount": 0,
+      "created": "2021-11-25T09:00:12.000Z",
+      "registered": null,
+      "published": "",
+      "updated": "2021-11-25T09:00:12.000Z"
+    },
+    "relationships": {
+      "client": {
+        "data": {
+          "id": "zftb.test01",
+          "type": "clients"
+        }
+      },
+      "provider": {
+        "data": {
+          "id": "zftb",
+          "type": "providers"
+        }
+      },
+      "media": {
+        "data": {
+          "id": "10.82081/dk-sa-dda-tst-009",
+          "type": "media"
+        }
+      },
+      "references": {
+        "data": []
+      },
+      "citations": {
+        "data": []
+      },
+      "parts": {
+        "data": []
+      },
+      "partOf": {
+        "data": []
+      },
+      "versions": {
+        "data": []
+      },
+      "versionOf": {
+        "data": []
+      }
+    }
+  }
+}
