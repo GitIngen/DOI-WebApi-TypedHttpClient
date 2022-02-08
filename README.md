@@ -17,3 +17,12 @@ The Test-project of the VisualStudio solution holds TestCases to:
 - integration test to create a random DOI, you manually switch between draft or publish/findable (the latter can never be deleted) (CanCreateRandomDoiIntegrationTestAsync).
 - Mockup test POSTing via doiController - this can be used as an example to see how to Moq.
 
+
+
+
+<br>======HttpClient: ==========
+<br>Register your Http-Service using services.AddHttpClient<..,..>(); will use IHttpClientFactory and a Pool HttpMessageHandler instances.
+<br>https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests#how-to-use-typed-clients-with-ihttpclientfactory
+
+![image](https://user-images.githubusercontent.com/35219754/153014076-ce5fb87e-d700-4876-8420-c4043bb17008.png)
+
